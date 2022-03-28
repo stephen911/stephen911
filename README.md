@@ -56,12 +56,8 @@ I am a professional software engineer. My name is Stephen Dapaah. CEO of Stedap 
 <img align="left" height='200px' src="https://github-readme-stats.vercel.app/api?username=stephen911&show_icons=true&include_all_commits=true&theme=dracula&count_private=true"/>
 </div>
 <br/>
- 
-
 
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=stephen911&theme=dracula" />
-<br/>
-
 <br/>
 
 <a href="https://github.com/Kojoyeboah53i">
