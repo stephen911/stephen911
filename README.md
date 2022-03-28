@@ -12,7 +12,7 @@ I am a professional software engineer. My name is Stephen Dapaah. CEO of Stedap 
 
 ## 📬 Get in touch
 
-- Facebook: [https://facebook.com/stephen.dapaah1][3]
+- Facebook: [https://facebook.com/stephen.dapaah1]
 - Linkedin :[https://www.linkedin.com/in/stephen-dapaah-33aaa720b/]
 - Website:[https://www.stedap1.site.live]
 
